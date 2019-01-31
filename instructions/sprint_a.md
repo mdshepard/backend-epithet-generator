@@ -66,7 +66,7 @@ project.
  be created in the ./submissions folder of the cloned repository.
  ```bash
  mkdir ./submissions/sprint_a
- cd .submissions/sprint_a
+ cd submissions/sprint_a
  pipenv install flask
  pipenv install python-dotenv
  pipenv install pytest --dev
