@@ -1,7 +1,5 @@
-import pytest
 from flask_testing import TestCase
 from sprintb.app import app
-from sprintb import helpers
 
 test_app = app.test_client()
 
